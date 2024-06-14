@@ -1,9 +1,5 @@
-# A-Basic-Perspective-Distortion-Example-with-openCV
+#A-Basic-Perspective-Distortion-Example-with-openCV
 A Python script using OpenCV to detect and correct the perspective of cards in an image.
-
-# CardPerspectiveCorrection
-
-A Python script utilizing OpenCV to detect and correct the perspective of cards in an image.
 
 ## Features
 
